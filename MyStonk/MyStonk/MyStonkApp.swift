@@ -1,4 +1,4 @@
-‹›//
+//
 //  MyStonkApp.swift
 //  MyStonk
 //
